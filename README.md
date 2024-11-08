@@ -23,9 +23,9 @@ aph75j
 
 1. Setup
 
-- DATA.TXT
+- privatekey.TXT
   ```
-  query_id=xxxxx
+  private key
 - Proxy.txt
   ```
   http://user:pass@ip:port
